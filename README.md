@@ -136,7 +136,7 @@ See `DEPLOYMENT.md` for the complete workflow.
 
 ## License & Attribution
 
-This repository is a customized personal portfolio based on an existing open-source 3D portfolio template. Required third-party licenses and attribution should remain intact.
+This repository is a customized personal portfolio. Required third-party licenses and attribution should remain intact.
 
 See the repository's license files for applicable terms.
 
